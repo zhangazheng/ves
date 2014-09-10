@@ -1,0 +1,6 @@
+/home/git/kkk/VES/build/jni/CMakeFiles/KiwiNative.dir
+/home/git/kkk/VES/build/CMakeFiles/kiwi-ant-configure.dir
+/home/git/kkk/VES/build/CMakeFiles/kiwi-apk-debug.dir
+/home/git/kkk/VES/build/CMakeFiles/kiwi-apk-release.dir
+/home/git/kkk/VES/build/CMakeFiles/kiwi-apk-resource.dir
+/home/git/kkk/VES/build/CMakeFiles/kiwi-apk-rm-resource.dir

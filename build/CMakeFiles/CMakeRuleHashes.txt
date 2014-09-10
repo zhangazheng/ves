@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+67ecd9ea500e86681c782e077f1a4ee9 CMakeFiles/kiwi-ant-configure
+86550f80cfaf2cd126aa4989fa55dafe CMakeFiles/kiwi-apk-debug
+b4f648ca505cd920898c9ae8d9e0997b CMakeFiles/kiwi-apk-release
+bc1ba2c322df7206d8df542a6f439f88 CMakeFiles/kiwi-apk-resource
+638654e845526a502c52610a6655c8f2 CMakeFiles/kiwi-apk-rm-resource
